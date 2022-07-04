@@ -1,0 +1,7 @@
+/Users/adekunleajike/Projects/UDEMYNEWDOTNETWEBAPP/UDEMYNEWDOTNETWEBAPP
+/Users/adekunleajike/Projects/UDEMYNEWDOTNETWEBAPP/appsettings.Development.json
+/Users/adekunleajike/Projects/UDEMYNEWDOTNETWEBAPP/appsettings.json
+/Users/adekunleajike/Projects/UDEMYNEWDOTNETWEBAPP/UDEMYNEWDOTNETWEBAPP.dll
+/Users/adekunleajike/Projects/UDEMYNEWDOTNETWEBAPP/UDEMYNEWDOTNETWEBAPP.deps.json
+/Users/adekunleajike/Projects/UDEMYNEWDOTNETWEBAPP/UDEMYNEWDOTNETWEBAPP.runtimeconfig.json
+/Users/adekunleajike/Projects/UDEMYNEWDOTNETWEBAPP/UDEMYNEWDOTNETWEBAPP.pdb
